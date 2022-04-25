@@ -38,3 +38,9 @@ tab = await window.async_create_tab()
     ```
     await terminal_1.async_send_text('Your command with \n separated wherever you want to press enter key')
     ```
+
+## Run the script and see it doing the hardowrk for you
+
+```
+python3 script_name.py
+```
