@@ -7,6 +7,7 @@ The aim of this single file code is to automate this task for you
 You might want to tweak this a little bit ofr Ubuntu/Windows as this code was tested only on MacOS
 
 ## What do you have to do?
+iTerm (https://iterm2.com/downloads/stable/latest) should be installed and Ensure the Python API is enabled in iTerm2's preferences ( iTerm2 -> Preferences -> Magic -> select Enable Python API )
 
 It's simple.. open the iterm_automate.py file ans customize it from line no.16. It might take 10 minutes but it's worth it
 
